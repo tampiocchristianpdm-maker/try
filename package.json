@@ -24,6 +24,11 @@
     "react-router-dom": "^6.0.0",
     "styled-components": "^6.0.0"
   },
+  "override":{
+    "@strapi/plugin-cloud": "5.42.0",
+    "@strapi/plugin-users-permissions": "5.42.0",
+    "@strapi/strapi": "5.42.0",
+  },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
