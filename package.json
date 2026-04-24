@@ -27,7 +27,7 @@
     "overrides":{
     "@strapi/plugin-cloud": "5.42.0",
     "@strapi/plugin-users-permissions": "5.42.0",
-    "@strapi/strapi": "5.42.0",
+    "@strapi/strapi": "5.42.0"
   },
   "devDependencies": {},
   "engines": {
